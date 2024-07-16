@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(119, 224, 243);
+}
+
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: .75rem;
+}
+
